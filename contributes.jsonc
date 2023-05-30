@@ -1,6 +1,15 @@
 
            { "snippets": [
                {
+                    "language": "terraform",
+                    "path": "./snippets/terraform-style-single.code-snippets"
+                  },
+                  {
+                    "language": "terraform",
+                    "path": "./snippets/terraform-style-double.code-snippets"
+                  },
+                  
+               {
                     "language": "css",
                     "path": "./snippets/js-style-single.code-snippets"
                },
